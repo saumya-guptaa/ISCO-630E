@@ -1,0 +1,12 @@
+Linear Regression(Group Project)
+
+Download Housing Price Data of Winsor, Canada City. Each group should use 50 dataset out of 550 data. Find Regression Parameters using 
+a) Normal Equation + Regularistion
+b) Gradient Descent + Regularisation
+Write yout conclusion for the project.
+
+
+
+Linear Weighted Regression
+
+Use Housing Price Dataset & implement LWR Algorithim. You may take neighbourhood batch size of data around 20. Tune the bandwidth and calculate weight parameters. Compare LWR with regularised GD and Regularised Normal Equation. 
