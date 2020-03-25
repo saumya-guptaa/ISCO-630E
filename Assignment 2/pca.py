@@ -63,7 +63,7 @@ for i in range(4):
     PC_2d_Norm[:,:,i] = 255*(PC_2d[:,:,i] - np.min(PC_2d[:,:,i]))/np.ptp(PC_2d[:,:,i]).astype(int)
     
 #Shows the PC eigenfaces
-fig,axes = plt.subplots(2,4,figsize=(50,23),sharex='all',
+fig,axes = plt.subplots(1,5,figsize=(10,10),sharex='all',
                         sharey='all')
 fig.subplots_adjust(wspace=0.1, hspace=0.15)
 fig.suptitle('Intensities of Principal Components ', fontsize=30)
@@ -75,7 +75,7 @@ for i in range(4):
 fig.delaxes(axes[-1])
 
 #Plot of original vs reduced final image
-fig,axes = plt.subplots(1,2,figsize=(50,23),
+fig,axes = plt.subplots(1,2,figsize=(10,10),
                         sharex='all', sharey='all')   
 fig.subplots_adjust(wspace=0.1, hspace=0.15)
 axes[0].imshow(imread('op1.jpeg').astype(int))
