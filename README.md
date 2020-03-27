@@ -31,6 +31,6 @@ Also implement LWR and find out what happens when the value of tau is very small
 
 5. Use the microchip dataset . Use 70% of the data for training and 30% for testing. 
 	1.	Use raw data as given, and from there develop a GDA 	model (without Box-Muller transformation).
-2.	For two features, first  using Box- Muller transformation create new data set having Gaussian distribution within the range of the given  data set and  create Gaussian Discriminant Analysis (GDA)  model.
+	2.	For two features, first  using Box- Muller 	transformation create new data set having Gaussian 	distribution within the range of the given  data set and  	create Gaussian Discriminant Analysis (GDA)  model.
 
 
