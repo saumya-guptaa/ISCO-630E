@@ -11,7 +11,7 @@ This contains my submissions for the Soft Computing Elective Course at IIITA.
 
 # Assignments
 
-The assignment folders contain the description of the assignment statement along with the jupyter notebooks (and dataset).
+The assignment folders contain the description of the assignment statement along with pyhton codes(and dataset).
  
 1. Using Naive Baysian Classifier: Predict   where   a   given   mail   is   spam   or   not.   Use   the  data set provided for this purpose. (structured data set).
 
@@ -37,6 +37,10 @@ Also implement LWR and find out what happens when the value of tau is very small
 	2.	Using two input one output X-NOR data , train a 	Neural Network	using Back Propagation Algorithm.Explain 	how will you test the network.
 
 7. A Bidirectional Associative Memory is used to store given 4 pairs of patterns of setA and setB. Calculate Weight Matrix and test the level of weight corrections.
+
+8. A Kohennen Network is used to classify 2-D i/p vectors. Training is to be done with randomly generated neurons.
+
+9. Design FIS to diagnose whether a person has Covid'19 or not based on symptoms, using both Mamdani and Sugeno Approaches.
 
 
 
