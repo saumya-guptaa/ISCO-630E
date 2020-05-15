@@ -7,7 +7,7 @@ This contains my submissions for the Soft Computing Elective Course at IIITA.
 1. Python3
 2. Numpy
 3. Matplotlib
-4. Matlab(Only for last assignment)
+4. Matlab(Only for Assignment 9)
 
 # Assignments
 
